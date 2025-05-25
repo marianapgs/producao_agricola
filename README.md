@@ -18,3 +18,9 @@ Este projeto tem como objetivo explorar, modelar e visualizar dados da produçã
 - Streamlit
 - Requests / sidrapy (para acesso ao IBGE)
 
+## 📌 Objetivos futuros
+
+- Integrar mais culturas agrícolas
+- Adicionar novos modelos preditivos
+- Disponibilizar análise em tempo real
+
