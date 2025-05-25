@@ -18,5 +18,3 @@ Este projeto tem como objetivo explorar, modelar e visualizar dados da produçã
 - Streamlit
 - Requests / sidrapy (para acesso ao IBGE)
 
-## 📁 Estrutura do projeto
-
